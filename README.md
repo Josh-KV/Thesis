@@ -1,3 +1,5 @@
+Reed College eTheses access link: https://rdc.reed.edu/i/8c597465-db66-431d-a223-044918740f3d
+
 Title: An Introduction to Elliptic Curves and Applications in Cryptography
 
 Author: Josh Klein Valente
